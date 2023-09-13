@@ -21,10 +21,11 @@ Navigation :
 
 - Search bar can be used to search songs/ albums. (Exact keywords required.)
   Some example keys to search :
+  
   Songs : "Deva Deva", "Kesariya", "Tay Hai", "Tere Sang Yaara"
   Albums : "Rustom", "Sholay", "Baari", "Summer High"
 
-- It is not allowed to play any song/ access library without logging in. Doing so will navigate to the      login modal.
+- It is not allowed to play any song/ access library without logging in. Doing so will navigate to the login modal.
 
 - Once logged in, user can play songs and add/ remove them to/from favorites list by clicking on icon in front of the song name.
 
